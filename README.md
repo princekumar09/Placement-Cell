@@ -1,5 +1,5 @@
 # Placement cell web app
-# Author Sujoy Peter
+# Author Prince Kumar
 This placement cell web application is created for users/employees to manage interviews of students, and allocate students to companies` interviews. \
 It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
